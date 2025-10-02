@@ -1,6 +1,6 @@
 # DevJobs
 
-DevJobs is a new project from a FullStack Bootcamp by midudev.
+DevJobs is a new project from a FullStack Bootcamp.
 This repository currently contains a minimal structure to get started.
 Besides i'm testing Warp as a terminal.
 
