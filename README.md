@@ -12,3 +12,4 @@ goals from this project:
 ## Project Structure
 - docs/ — documentation, specs, and decisions
 - src/ — application source code
+- index.html - structure body in hyper text language
